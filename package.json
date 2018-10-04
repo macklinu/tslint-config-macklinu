@@ -21,6 +21,7 @@
     "url": "https://github.com/macklinu/tslint-config-macklinu.git"
   },
   "scripts": {
+    "test": "echo 'no tests'",
     "semantic-release": "semantic-release",
     "travis-deploy-once": "travis-deploy-once"
   },
